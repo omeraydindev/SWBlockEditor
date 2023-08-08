@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SWBlocksPreview" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:colorPrimary">#008dcd</item>
+        <item name="android:colorAccent">#008dcd</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#0084c2</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>
